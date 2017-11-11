@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/bfuller123/test-test#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "sequelize": "^4.22.6"
   }
 }
